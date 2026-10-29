@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Extensions/Extensions.csproj" Id="4a8c6c9d-9316-4c1e-9d1e-25f6d1cac33a" />
+  <Project Path="../TCPData/TCPData.csproj" Id="550eca8d-795d-4c22-a8c0-6c46317f5519" />
+  <Project Path="ThePretendCompanyApplication.csproj" />
+</Solution>
